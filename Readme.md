@@ -1,6 +1,6 @@
 # Blobworld
 
-Welcome to Blobworld, an interactive game where you push your boundaries. 
+Welcome to Blobworld, a large interactive in-dev game where you push your boundaries and expand to be the very best.
 
-Contributors: rkslkk, Pilot, Mahesome
+Contributors include (but are not limited to): rkslkk, Pilot, Mahesome
 
